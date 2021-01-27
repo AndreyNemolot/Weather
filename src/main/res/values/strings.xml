@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="error">Something went wrong. Please try again</string>
+    <string name="new_city">Please add new city or turn on location determination</string>
+    <string name="add_city">Add city</string>
+    <string name="turn_on_location">Use current location</string>
+    <string name="celsius">t: %s °C</string>
+    <string name="pressure">p: %s</string>
+    <string name="humidity">h: %s</string>
+    <string name="input_city_name">Input city name</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
